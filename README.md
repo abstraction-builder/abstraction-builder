@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abstraction-builder
-- 👀 I’m interested in quantum computing, computer systems and machine learning
+- 👀 I’m interested in computer systems and quantum computing.
 - 📫 You can reach me via email amikomalania@gmail.com
 
 <!---
